@@ -1,3 +1,5 @@
 ## Tech Berlin Hackathon
 
-Project: Developed a fashion recommendation system, to suggest dress to wear based on different ocassion
+Project: Developed a fashion recommendation system, to suggest dress to wear based on different ocassion.
+
+![Fashion Recommendation System](./image.jpg)
